@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
-  "downloadUrl": "https://github.com/jacksondavidprice-ui/LAPCR-v5-updater/releases/download/v5.0.0/LAPCR-5.0.0.0.msi",
-  "releaseNotes": "LAPCR V5 Beta Release - AI-powered PC repair",
-  "sha256Hash": "",
-  "fileSize": 0,
+  "version": "5.0.1",
+  "downloadUrl": "https://github.com/jacksondavidprice-ui/LAPCR-v5-updater/releases/download/v5.0.1/LAPCR-Setup-5.0.1.exe",
+  "releaseNotes": "Bug fixes, auto-updater improvements, and security hardening",
+  "sha256Hash": "908DF71460D1BD83C9B71ACAB1C2BA345992DCA36D7AD5F225DBCCAD5C6DCF99",
+  "fileSize": 3513573,
   "mandatory": false
 }
