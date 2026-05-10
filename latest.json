@@ -1,8 +1,8 @@
 {
-  "version": "5.0.1",
-  "downloadUrl": "https://github.com/jacksondavidprice-ui/LAPCR-v5-updater/releases/download/v5.0.1/LAPCR-Setup-5.0.1.exe",
-  "releaseNotes": "Bug fixes, auto-updater improvements, and security hardening",
-  "sha256Hash": "908DF71460D1BD83C9B71ACAB1C2BA345992DCA36D7AD5F225DBCCAD5C6DCF99",
-  "fileSize": 3513573,
+  "version": "6.0.1",
+  "downloadUrl": "https://github.com/jacksondavidprice-ui/LAPCR-updater/releases/download/v6.0.1/LAPCR_Setup_v6.0.1.exe",
+  "releaseNotes": "Bug fixes: friendly underage age-verification UX, update-checker correctly recognizes new releases, Add button no longer clipped in Privacy settings.",
+  "sha256Hash": "91472457FBCB973BC2F09C7AB6142BDAC13B198CD493AA93E8A4391535FE4C7B",
+  "fileSize": 1437814,
   "mandatory": false
 }
